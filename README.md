@@ -1,4 +1,4 @@
-# test-project
+# react-template
 
 > A React.js project
 
